@@ -1,4 +1,4 @@
-import Component1 from "./components/Component1";
+import Component1 from "./components/Rinsha";
 
 
 function App() {
@@ -6,6 +6,7 @@ function App() {
     <>
       <div>hello world</div>
       <Component1/>
+      <Rinsha/>
     </>
   );
 }
